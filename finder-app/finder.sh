@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Search an string recursively (on files in a directory)
+# search an string recursively (on files in a directory)
 
 if [ $# -lt 2 ];then
   echo "USAGE: $0 <filesdir> <searchstr>"
